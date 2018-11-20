@@ -1,0 +1,138 @@
+.navbar-nav
+{
+    position: absolute;
+    right: 30px;
+}
+
+.navbar-nav a
+{
+    font-size: 20px;
+}
+.navbar-brand
+{
+  font-size: 30px;
+    
+}
+.test
+{
+    position: absolute;
+    top:280px;
+    right: 200px;
+   color: white;
+    
+}
+.test h2
+{
+font-size: 80px;
+    
+}
+.test p
+{
+    font-size: 40px;
+}
+.btn btn-primary
+{
+padding: 20px;   
+}
+.but
+{
+    margin: auto;
+}
+.div
+{
+    width: 70px;
+    height: 1px;
+    background-color: black;
+}
+.www a
+{
+    color: black;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.upper
+{
+    width: 100%;
+    height: 100%;
+    background-color: aqua;
+    opacity: 0;
+    transition: 0.5s;
+}
+.upper:hover
+{
+    opacity: 0.5;
+}
+.tt
+{
+
+
+    background-image:url(../../img/1.jpg);
+    background-size: 100% 100%;      
+}
+
+.cc
+{
+    width: 70px;
+    height: 1px;
+    background-color: black;
+    margin: auto;
+}
+.tt .container-fluid
+{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    padding: 30px;
+}
+
+.z a
+{
+    margin: 20px;
+    font-size: 18px;
+    color: black;
+}
+.cab
+{
+    overflow: hidden;
+}
+.cab img
+{
+transition: 0.5s;
+    overflow: hidden;
+}
+.cab img:hover
+{
+transform: scale(1.1,1.1);
+
+}
+.zz
+{
+    background-color: #F7F7F7;
+    padding-bottom: 50px;
+}
+.zzz
+{
+    background-color: white;
+}
+.yy
+{
+    text-align: center;
+}
+
+.ss
+{
+    width: 100px;
+    
+}
+.upper div
+{
+    position: absolute;
+    top: 40%;
+    width: 100%;
+    
+}
+
+.upper i
+{
+    font-size: 30px;
+    margin: 10px;
+}
